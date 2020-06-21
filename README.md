@@ -6,3 +6,4 @@
 17/06/202-Completed Task 5 and downloaded dataset Studend_placement,Airplane_delay,Ayush_hospital from kaggle
 18/06/2020-Completed the task given on Knn and read Knn related info
 19/06/2020-Completed Task 6
+20/06/2020-Completed Knn regression task
