@@ -7,3 +7,4 @@
 18/06/2020-Completed the task given on Knn and read Knn related info
 19/06/2020-Completed Task 6
 20/06/2020-Completed Knn regression task
+22/06/2020-Completed task on linear and multilinear regression .Compared three models w.r.t RMSE and MSE values.
