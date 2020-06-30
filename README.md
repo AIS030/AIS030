@@ -9,3 +9,8 @@
 20/06/2020-Completed Knn regression task
 22/06/2020-Completed task on linear and multilinear regression .Compared three models w.r.t RMSE and MSE values.
 23/06/2020-Completed task  given on the Ecommerce Customer
+25/06/2020-Completed task on Downloading dataset from kaggel and analytics vidya
+26/06/2020-Completed task on Navie Bayes
+27/06/2020- Session by Rani Baghe
+29/06/2020-No Lect
+30/06/2020-Completed Task on Decision Tree using iris Dataset
