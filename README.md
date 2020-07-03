@@ -11,6 +11,9 @@
 23/06/2020-Completed task  given on the Ecommerce Customer
 25/06/2020-Completed task on Downloading dataset from kaggel and analytics vidya
 26/06/2020-Completed task on Navie Bayes
-27/06/2020- Session by Rani Baghe
+27/06/2020- Session by Rani 
 29/06/2020-No Lect
 30/06/2020-Completed Task on Decision Tree using iris Dataset
+1/06/2020-Session by Rani
+2/06/2020- Completed the task on Loan Prediction Classification probelms using Navie Bayes,Knn,Decision Tree and Random Forest Classifiers.
+3/06/2020- Completed task on Regression problem
