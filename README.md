@@ -17,3 +17,4 @@
 1/06/2020-Session by Rani
 2/06/2020- Completed the task on Loan Prediction Classification probelms using Navie Bayes,Knn,Decision Tree and Random Forest Classifiers.
 3/06/2020- Completed task on Regression problem
+6/7/2020-Task on K means clusttering using Iris dataset
